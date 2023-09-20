@@ -1,3 +1,5 @@
+- Finish up package renaming and fixing test run
+- Renaming package so I can publish to pypi
 - Adding installation instructions to readme
 - Fix README.md format
 - update changelog
