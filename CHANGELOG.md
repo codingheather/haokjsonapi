@@ -1,1 +1,4 @@
-- upload extended jsonapi and test files
+- edit README.md
+- modify setup.py
+- setup repository
+- Initial commit
