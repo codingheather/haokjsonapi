@@ -1,4 +1,3 @@
-```markdown
 # jsonapi
 
 `jsonapi` is a Python package that extends the built-in `json` library to support complex and range objects in JSON serialization and deserialization.
@@ -35,5 +34,3 @@ This package is distributed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Acknowledgments
 
 We would like to thank the Python community and the creators of the `json` library for their valuable contributions.
-
-```
