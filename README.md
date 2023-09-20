@@ -2,6 +2,14 @@
 
 `jsonapi` is a Python package that extends the built-in `json` library to support complex and range objects in JSON serialization and deserialization.
 
+## Installation
+
+You can install `jsonapi` using pip:
+
+```bash
+pip install jsonapi
+```
+
 ## Usage
 
 ### Serializing Complex Objects
