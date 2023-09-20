@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "jsonapi"
+name = "haokjsonapi"
 version = "0.1.0"
 description = ""
 authors = ["Heather Hao <khao@fandm.edu>"]

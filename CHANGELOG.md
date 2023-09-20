@@ -1,3 +1,6 @@
+- Adding installation instructions to readme
+- Fix README.md format
+- update changelog
 - edit README.md
 - modify setup.py
 - setup repository
